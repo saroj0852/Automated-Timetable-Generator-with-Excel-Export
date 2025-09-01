@@ -1,0 +1,58 @@
+final set of conditions for your university timetable generator, combining all your rules clearly:
+
+1. Teacher Rules
+
+Each teacher must take exactly 3 theory classes per week per section.
+
+If a teacher takes the 12–1 slot, they cannot take 2–3 on the same day (recess rule).
+
+A teacher cannot be assigned to overlapping classes in different sections.
+
+Teacher workload should be balanced across the week.
+
+2. Section Rules
+
+Each section can have a maximum of 4 theory classes per day.
+
+Theory classes must be in continuous blocks:
+
+2-class block: 9–11, 10–12, 2–4, 3–5
+
+3-class block: 9–12, 10–1, 2–5
+
+4-class block: 9–1 (continuous) or 9–11 + 3–5 (split)
+
+Each section has 2–4 labs per week (user-defined).
+
+Labs always occupy 2-hour continuous slots (e.g., 9–11, 11–1, 3–5) and may be split into groups.
+
+3. Room Rules
+
+Each classroom/lab can host only one section at a time.
+
+No room overlaps across sections or departments.
+
+Sections can have allotted classrooms; a room can serve up to 2 sections, but never at the same time.
+
+4. Scheduling & Sequence Rules
+
+Labs are scheduled first, because they require bigger blocks.
+
+Theory classes are scheduled in continuous blocks (as per 2–4 above).
+
+No consecutive 12–1 & 2–3 theory classes for any teacher (recess respected).
+
+Teacher assignments and room allocations cannot overlap.
+
+Teacher load and section schedules should be evenly distributed across the week.
+
+5. Output
+
+Timetable is displayed per section in table format.
+
+Optionally exportable to Excel, Word, or PDF.
+
+Each cell shows: Subject – Teacher or Lab (Group) – Teacher.
+
+Rows = Days (Monday–Friday), Columns = Period slots (9–10, 10–11, …).
+
