@@ -1,0 +1,46 @@
+{
+  "settings": {
+    "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "all_slots": ["9-10", "10-11", "11-12", "12-1", "2-3", "3-4", "4-5"],
+    "lab_slot_starts": ["9-10", "11-12", "3-4"],
+    "groups": ["A", "B"],
+    "solver_timeout_seconds": 20
+  },
+  "sections": [
+    "CSE-3-1", "CSE-3-2", "AIML-3",
+    "CSE-5", "IT-5",
+    "CSE-7", "IT-7"
+  ],
+  "section_theory_rooms": {
+    "CSE-3-1": "B-209", "CSE-3-2": "B-209", "AIML-3": "A-32",
+    "CSE-5": "B-205", "IT-5": "B-205", "CSE-7": "D-303", "IT-7": "D-303"
+  },
+  "lab_rooms": [
+    "CS105", "CS106", "CS107", "CS115", "CS204", "CS205", "CS208", "CS220"
+  ],
+  "subjects": {
+    "CSE-3-1": [["DLD", "AM"], ["DS", "SK"], ["DBE", "SP"], ["OOP", "AVL"]],
+    "CSE-3-2": [["DLD", "SWP"], ["DS", "GS"], ["DBE", "KN"], ["OOP", "SS"]],
+    "AIML-3":  [["DLD", "PKS"], ["DS", "SKS"], ["DBE", "GF4"], ["OOP", "SKB"]],
+    "CSE-5":   [["TOC", "GF2"], ["OS", "HSB"], ["AI/ML", "PKD"], ["CNS", "SPanda"]],
+    "IT-5":    [["TOC", "KKS"], ["OS", "SBD"], ["AI/ML", "GF3"], ["DMDW", "BN"]],
+    "CSE-7":   [["AI", "GF5"], ["IWP", "GF6"], ["IP", "KN"],["SM", "SPS"]],
+    "IT-7":    [["AI", "MRS"], ["CS", "AD"], ["SM", "SKN"]]
+  },
+  "labs": {
+    "CSE-3-1": ["DLD Lab", "DS Lab", "DBE Lab", "OOP Lab"],
+    "CSE-3-2": ["DLD Lab", "DS Lab", "DBE Lab", "OOP Lab"],
+    "AIML-3":  ["DLD Lab", "DS Lab", "DBE Lab", "OOP Lab"],
+    "CSE-5":   ["TOC Lab", "OS Lab", "AI/ML Lab"],
+    "IT-5":    ["TOC Lab", "OS Lab", "AI/ML Lab"],
+    "CSE-7":   ["Web Programming Lab","Seminar Lab"],
+    "IT-7":    ["Artificial Intelligence Lab","Seminar Lab"]
+  },
+  "objective_weights": {
+    "workload_penalty": 10,
+    "parallel_lab_penalty": 8,
+    "daily_lab_penalty": 3,
+    "continuity_penalty": 1,
+    "group_daily_lab_penalty": 6
+  }
+}

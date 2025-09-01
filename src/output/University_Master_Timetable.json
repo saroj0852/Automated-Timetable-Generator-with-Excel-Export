@@ -1,0 +1,1633 @@
+{
+  "Monday": [
+    {
+      "section": "CSE-3-1",
+      "9-10": [
+        {
+          "teacher": "AM",
+          "subject": "DLD",
+          "room": "B-209",
+          "isLab": false
+        }
+      ],
+      "10-11": [
+        {
+          "teacher": "SK",
+          "subject": "DS",
+          "room": "B-209",
+          "isLab": false
+        }
+      ],
+      "11-12": [
+        {
+          "teacher": "AVL",
+          "subject": "OOP Lab",
+          "room": "CS115",
+          "isLab": true,
+          "group": "A"
+        }
+      ],
+      "12-1": [
+        {
+          "teacher": "AVL",
+          "subject": "OOP Lab",
+          "room": "CS115",
+          "isLab": true,
+          "group": "A"
+        }
+      ],
+      "2-3": [],
+      "3-4": [
+        {
+          "teacher": "SP",
+          "subject": "DBE Lab",
+          "room": "CS107",
+          "isLab": true,
+          "group": "B"
+        }
+      ],
+      "4-5": [
+        {
+          "teacher": "SP",
+          "subject": "DBE Lab",
+          "room": "CS107",
+          "isLab": true,
+          "group": "B"
+        }
+      ]
+    },
+    {
+      "section": "CSE-3-2",
+      "9-10": [],
+      "10-11": [],
+      "11-12": [
+        {
+          "teacher": "KN",
+          "subject": "DBE Lab",
+          "room": "CS107",
+          "isLab": true,
+          "group": "B"
+        }
+      ],
+      "12-1": [
+        {
+          "teacher": "KN",
+          "subject": "DBE Lab",
+          "room": "CS107",
+          "isLab": true,
+          "group": "B"
+        }
+      ],
+      "2-3": [
+        {
+          "teacher": "SWP",
+          "subject": "DLD",
+          "room": "B-209",
+          "isLab": false
+        }
+      ],
+      "3-4": [
+        {
+          "teacher": "GS",
+          "subject": "DS",
+          "room": "B-209",
+          "isLab": false
+        }
+      ],
+      "4-5": [
+        {
+          "teacher": "SS",
+          "subject": "OOP",
+          "room": "B-209",
+          "isLab": false
+        }
+      ]
+    },
+    {
+      "section": "AIML-3",
+      "9-10": [
+        {
+          "teacher": "GF4",
+          "subject": "DBE Lab",
+          "room": "CS107",
+          "isLab": true,
+          "group": "A"
+        }
+      ],
+      "10-11": [
+        {
+          "teacher": "GF4",
+          "subject": "DBE Lab",
+          "room": "CS107",
+          "isLab": true,
+          "group": "A"
+        }
+      ],
+      "11-12": [
+        {
+          "teacher": "PKS",
+          "subject": "DLD Lab",
+          "room": "CS220",
+          "isLab": true,
+          "group": "B"
+        }
+      ],
+      "12-1": [
+        {
+          "teacher": "PKS",
+          "subject": "DLD Lab",
+          "room": "CS220",
+          "isLab": true,
+          "group": "B"
+        }
+      ],
+      "2-3": [
+        {
+          "teacher": "SKB",
+          "subject": "OOP",
+          "room": "A-32",
+          "isLab": false
+        }
+      ],
+      "3-4": [],
+      "4-5": [
+        {
+          "teacher": "SKS",
+          "subject": "DS",
+          "room": "A-32",
+          "isLab": false
+        }
+      ]
+    },
+    {
+      "section": "CSE-5",
+      "9-10": [],
+      "10-11": [
+        {
+          "teacher": "SPanda",
+          "subject": "CNS",
+          "room": "B-205",
+          "isLab": false
+        }
+      ],
+      "11-12": [
+        {
+          "teacher": "PKD",
+          "subject": "AI/ML",
+          "room": "B-205",
+          "isLab": false
+        }
+      ],
+      "12-1": [
+        {
+          "teacher": "GF2",
+          "subject": "TOC",
+          "room": "B-205",
+          "isLab": false
+        }
+      ],
+      "2-3": [],
+      "3-4": [
+        {
+          "teacher": "HSB",
+          "subject": "OS Lab",
+          "room": "CS105",
+          "isLab": true,
+          "group": "B"
+        }
+      ],
+      "4-5": [
+        {
+          "teacher": "HSB",
+          "subject": "OS Lab",
+          "room": "CS105",
+          "isLab": true,
+          "group": "B"
+        }
+      ]
+    },
+    {
+      "section": "IT-5",
+      "9-10": [],
+      "10-11": [],
+      "11-12": [
+        {
+          "teacher": "GF3",
+          "subject": "AI/ML Lab",
+          "room": "CS204",
+          "isLab": true,
+          "group": "A"
+        }
+      ],
+      "12-1": [
+        {
+          "teacher": "GF3",
+          "subject": "AI/ML Lab",
+          "room": "CS204",
+          "isLab": true,
+          "group": "A"
+        }
+      ],
+      "2-3": [
+        {
+          "teacher": "SBD",
+          "subject": "OS",
+          "room": "B-205",
+          "isLab": false
+        }
+      ],
+      "3-4": [
+        {
+          "teacher": "KKS",
+          "subject": "TOC Lab",
+          "room": "CS205",
+          "isLab": true,
+          "group": "B"
+        }
+      ],
+      "4-5": [
+        {
+          "teacher": "KKS",
+          "subject": "TOC Lab",
+          "room": "CS205",
+          "isLab": true,
+          "group": "B"
+        }
+      ]
+    },
+    {
+      "section": "CSE-7",
+      "9-10": [
+        {
+          "teacher": "GF6",
+          "subject": "IWP",
+          "room": "D-303",
+          "isLab": false
+        }
+      ],
+      "10-11": [
+        {
+          "teacher": "KN",
+          "subject": "IP",
+          "room": "D-303",
+          "isLab": false
+        }
+      ],
+      "11-12": [
+        {
+          "teacher": "SPS",
+          "subject": "Seminar Lab",
+          "room": "CS208",
+          "isLab": true,
+          "group": "B"
+        }
+      ],
+      "12-1": [
+        {
+          "teacher": "SPS",
+          "subject": "Seminar Lab",
+          "room": "CS208",
+          "isLab": true,
+          "group": "B"
+        }
+      ],
+      "2-3": [],
+      "3-4": [],
+      "4-5": []
+    },
+    {
+      "section": "IT-7",
+      "9-10": [],
+      "10-11": [],
+      "11-12": [],
+      "12-1": [],
+      "2-3": [
+        {
+          "teacher": "SKN",
+          "subject": "SM",
+          "room": "D-303",
+          "isLab": false
+        }
+      ],
+      "3-4": [
+        {
+          "teacher": "AD",
+          "subject": "CS",
+          "room": "D-303",
+          "isLab": false
+        }
+      ],
+      "4-5": [
+        {
+          "teacher": "MRS",
+          "subject": "AI",
+          "room": "D-303",
+          "isLab": false
+        }
+      ]
+    }
+  ],
+  "Tuesday": [
+    {
+      "section": "CSE-3-1",
+      "9-10": [],
+      "10-11": [
+        {
+          "teacher": "AVL",
+          "subject": "OOP",
+          "room": "B-209",
+          "isLab": false
+        }
+      ],
+      "11-12": [
+        {
+          "teacher": "SK",
+          "subject": "DS Lab",
+          "room": "CS105",
+          "isLab": true,
+          "group": "B"
+        }
+      ],
+      "12-1": [
+        {
+          "teacher": "SK",
+          "subject": "DS Lab",
+          "room": "CS105",
+          "isLab": true,
+          "group": "B"
+        }
+      ],
+      "2-3": [
+        {
+          "teacher": "SP",
+          "subject": "DBE",
+          "room": "B-209",
+          "isLab": false
+        }
+      ],
+      "3-4": [
+        {
+          "teacher": "AM",
+          "subject": "DLD Lab",
+          "room": "CS220",
+          "isLab": true,
+          "group": "A"
+        }
+      ],
+      "4-5": [
+        {
+          "teacher": "AM",
+          "subject": "DLD Lab",
+          "room": "CS220",
+          "isLab": true,
+          "group": "A"
+        }
+      ]
+    },
+    {
+      "section": "CSE-3-2",
+      "9-10": [
+        {
+          "teacher": "GS",
+          "subject": "DS Lab",
+          "room": "CS105",
+          "isLab": true,
+          "group": "B"
+        }
+      ],
+      "10-11": [
+        {
+          "teacher": "GS",
+          "subject": "DS Lab",
+          "room": "CS105",
+          "isLab": true,
+          "group": "B"
+        }
+      ],
+      "11-12": [
+        {
+          "teacher": "SWP",
+          "subject": "DLD Lab",
+          "room": "CS220",
+          "isLab": true,
+          "group": "A"
+        }
+      ],
+      "12-1": [
+        {
+          "teacher": "SWP",
+          "subject": "DLD Lab",
+          "room": "CS220",
+          "isLab": true,
+          "group": "A"
+        }
+      ],
+      "2-3": [],
+      "3-4": [
+        {
+          "teacher": "SS",
+          "subject": "OOP",
+          "room": "B-209",
+          "isLab": false
+        }
+      ],
+      "4-5": [
+        {
+          "teacher": "KN",
+          "subject": "DBE",
+          "room": "B-209",
+          "isLab": false
+        }
+      ]
+    },
+    {
+      "section": "AIML-3",
+      "9-10": [],
+      "10-11": [],
+      "11-12": [
+        {
+          "teacher": "SKB",
+          "subject": "OOP Lab",
+          "room": "CS115",
+          "isLab": true,
+          "group": "B"
+        }
+      ],
+      "12-1": [
+        {
+          "teacher": "SKB",
+          "subject": "OOP Lab",
+          "room": "CS115",
+          "isLab": true,
+          "group": "B"
+        }
+      ],
+      "2-3": [
+        {
+          "teacher": "GF4",
+          "subject": "DBE",
+          "room": "A-32",
+          "isLab": false
+        }
+      ],
+      "3-4": [
+        {
+          "teacher": "SKS",
+          "subject": "DS",
+          "room": "A-32",
+          "isLab": false
+        }
+      ],
+      "4-5": [
+        {
+          "teacher": "PKS",
+          "subject": "DLD",
+          "room": "A-32",
+          "isLab": false
+        }
+      ]
+    },
+    {
+      "section": "CSE-5",
+      "9-10": [],
+      "10-11": [],
+      "11-12": [
+        {
+          "teacher": "GF2",
+          "subject": "TOC Lab",
+          "room": "CS205",
+          "isLab": true,
+          "group": "B"
+        }
+      ],
+      "12-1": [
+        {
+          "teacher": "GF2",
+          "subject": "TOC Lab",
+          "room": "CS205",
+          "isLab": true,
+          "group": "B"
+        }
+      ],
+      "2-3": [
+        {
+          "teacher": "SPanda",
+          "subject": "CNS",
+          "room": "B-205",
+          "isLab": false
+        }
+      ],
+      "3-4": [
+        {
+          "teacher": "PKD",
+          "subject": "AI/ML",
+          "room": "B-205",
+          "isLab": false
+        }
+      ],
+      "4-5": [
+        {
+          "teacher": "HSB",
+          "subject": "OS",
+          "room": "B-205",
+          "isLab": false
+        }
+      ]
+    },
+    {
+      "section": "IT-5",
+      "9-10": [],
+      "10-11": [
+        {
+          "teacher": "GF3",
+          "subject": "AI/ML",
+          "room": "B-205",
+          "isLab": false
+        }
+      ],
+      "11-12": [
+        {
+          "teacher": "BN",
+          "subject": "DMDW",
+          "room": "B-205",
+          "isLab": false
+        }
+      ],
+      "12-1": [
+        {
+          "teacher": "KKS",
+          "subject": "TOC",
+          "room": "B-205",
+          "isLab": false
+        }
+      ],
+      "2-3": [],
+      "3-4": [
+        {
+          "teacher": "SBD",
+          "subject": "OS Lab",
+          "room": "CS105",
+          "isLab": true,
+          "group": "A"
+        }
+      ],
+      "4-5": [
+        {
+          "teacher": "SBD",
+          "subject": "OS Lab",
+          "room": "CS105",
+          "isLab": true,
+          "group": "A"
+        }
+      ]
+    },
+    {
+      "section": "CSE-7",
+      "9-10": [],
+      "10-11": [
+        {
+          "teacher": "GF6",
+          "subject": "IWP",
+          "room": "D-303",
+          "isLab": false
+        }
+      ],
+      "11-12": [],
+      "12-1": [],
+      "2-3": [],
+      "3-4": [
+        {
+          "teacher": "SPS",
+          "subject": "Seminar Lab",
+          "room": "CS208",
+          "isLab": true,
+          "group": "A"
+        }
+      ],
+      "4-5": [
+        {
+          "teacher": "SPS",
+          "subject": "Seminar Lab",
+          "room": "CS208",
+          "isLab": true,
+          "group": "A"
+        }
+      ]
+    },
+    {
+      "section": "IT-7",
+      "9-10": [],
+      "10-11": [],
+      "11-12": [
+        {
+          "teacher": "SKN",
+          "subject": "Seminar Lab",
+          "room": "CS208",
+          "isLab": true,
+          "group": "A"
+        }
+      ],
+      "12-1": [
+        {
+          "teacher": "SKN",
+          "subject": "Seminar Lab",
+          "room": "CS208",
+          "isLab": true,
+          "group": "A"
+        }
+      ],
+      "2-3": [],
+      "3-4": [],
+      "4-5": [
+        {
+          "teacher": "MRS",
+          "subject": "AI",
+          "room": "D-303",
+          "isLab": false
+        }
+      ]
+    }
+  ],
+  "Wednesday": [
+    {
+      "section": "CSE-3-1",
+      "9-10": [
+        {
+          "teacher": "SK",
+          "subject": "DS Lab",
+          "room": "CS105",
+          "isLab": true,
+          "group": "A"
+        }
+      ],
+      "10-11": [
+        {
+          "teacher": "SK",
+          "subject": "DS Lab",
+          "room": "CS105",
+          "isLab": true,
+          "group": "A"
+        }
+      ],
+      "11-12": [],
+      "12-1": [],
+      "2-3": [
+        {
+          "teacher": "SP",
+          "subject": "DBE",
+          "room": "B-209",
+          "isLab": false
+        }
+      ],
+      "3-4": [
+        {
+          "teacher": "AM",
+          "subject": "DLD",
+          "room": "B-209",
+          "isLab": false
+        }
+      ],
+      "4-5": [
+        {
+          "teacher": "AVL",
+          "subject": "OOP",
+          "room": "B-209",
+          "isLab": false
+        }
+      ]
+    },
+    {
+      "section": "CSE-3-2",
+      "9-10": [
+        {
+          "teacher": "KN",
+          "subject": "DBE",
+          "room": "B-209",
+          "isLab": false
+        }
+      ],
+      "10-11": [
+        {
+          "teacher": "GS",
+          "subject": "DS",
+          "room": "B-209",
+          "isLab": false
+        }
+      ],
+      "11-12": [
+        {
+          "teacher": "SS",
+          "subject": "OOP Lab",
+          "room": "CS115",
+          "isLab": true,
+          "group": "A"
+        }
+      ],
+      "12-1": [
+        {
+          "teacher": "SS",
+          "subject": "OOP Lab",
+          "room": "CS115",
+          "isLab": true,
+          "group": "A"
+        }
+      ],
+      "2-3": [],
+      "3-4": [
+        {
+          "teacher": "SWP",
+          "subject": "DLD Lab",
+          "room": "CS220",
+          "isLab": true,
+          "group": "B"
+        }
+      ],
+      "4-5": [
+        {
+          "teacher": "SWP",
+          "subject": "DLD Lab",
+          "room": "CS220",
+          "isLab": true,
+          "group": "B"
+        }
+      ]
+    },
+    {
+      "section": "AIML-3",
+      "9-10": [
+        {
+          "teacher": "GF4",
+          "subject": "DBE Lab",
+          "room": "CS107",
+          "isLab": true,
+          "group": "B"
+        }
+      ],
+      "10-11": [
+        {
+          "teacher": "GF4",
+          "subject": "DBE Lab",
+          "room": "CS107",
+          "isLab": true,
+          "group": "B"
+        }
+      ],
+      "11-12": [
+        {
+          "teacher": "SKS",
+          "subject": "DS Lab",
+          "room": "CS105",
+          "isLab": true,
+          "group": "A"
+        }
+      ],
+      "12-1": [
+        {
+          "teacher": "SKS",
+          "subject": "DS Lab",
+          "room": "CS105",
+          "isLab": true,
+          "group": "A"
+        }
+      ],
+      "2-3": [
+        {
+          "teacher": "PKS",
+          "subject": "DLD",
+          "room": "A-32",
+          "isLab": false
+        }
+      ],
+      "3-4": [],
+      "4-5": [
+        {
+          "teacher": "SKB",
+          "subject": "OOP",
+          "room": "A-32",
+          "isLab": false
+        }
+      ]
+    },
+    {
+      "section": "CSE-5",
+      "9-10": [],
+      "10-11": [],
+      "11-12": [
+        {
+          "teacher": "HSB",
+          "subject": "OS",
+          "room": "B-205",
+          "isLab": false
+        }
+      ],
+      "12-1": [
+        {
+          "teacher": "GF2",
+          "subject": "TOC",
+          "room": "B-205",
+          "isLab": false
+        }
+      ],
+      "2-3": [],
+      "3-4": [
+        {
+          "teacher": "PKD",
+          "subject": "AI/ML Lab",
+          "room": "CS204",
+          "isLab": true,
+          "group": "A"
+        }
+      ],
+      "4-5": [
+        {
+          "teacher": "PKD",
+          "subject": "AI/ML Lab",
+          "room": "CS204",
+          "isLab": true,
+          "group": "A"
+        }
+      ]
+    },
+    {
+      "section": "IT-5",
+      "9-10": [],
+      "10-11": [
+        {
+          "teacher": "GF3",
+          "subject": "AI/ML",
+          "room": "B-205",
+          "isLab": false
+        }
+      ],
+      "11-12": [
+        {
+          "teacher": "KKS",
+          "subject": "TOC Lab",
+          "room": "CS205",
+          "isLab": true,
+          "group": "A"
+        }
+      ],
+      "12-1": [
+        {
+          "teacher": "KKS",
+          "subject": "TOC Lab",
+          "room": "CS205",
+          "isLab": true,
+          "group": "A"
+        }
+      ],
+      "2-3": [
+        {
+          "teacher": "BN",
+          "subject": "DMDW",
+          "room": "B-205",
+          "isLab": false
+        }
+      ],
+      "3-4": [],
+      "4-5": [
+        {
+          "teacher": "SBD",
+          "subject": "OS",
+          "room": "B-205",
+          "isLab": false
+        }
+      ]
+    },
+    {
+      "section": "CSE-7",
+      "9-10": [
+        {
+          "teacher": "GF6",
+          "subject": "Web Programming Lab",
+          "room": "CS204",
+          "isLab": true,
+          "group": "B"
+        }
+      ],
+      "10-11": [
+        {
+          "teacher": "GF6",
+          "subject": "Web Programming Lab",
+          "room": "CS204",
+          "isLab": true,
+          "group": "B"
+        }
+      ],
+      "11-12": [],
+      "12-1": [],
+      "2-3": [
+        {
+          "teacher": "KN",
+          "subject": "IP",
+          "room": "D-303",
+          "isLab": false
+        }
+      ],
+      "3-4": [
+        {
+          "teacher": "SPS",
+          "subject": "SM",
+          "room": "D-303",
+          "isLab": false
+        }
+      ],
+      "4-5": [
+        {
+          "teacher": "GF5",
+          "subject": "AI",
+          "room": "D-303",
+          "isLab": false
+        }
+      ]
+    },
+    {
+      "section": "IT-7",
+      "9-10": [],
+      "10-11": [
+        {
+          "teacher": "SKN",
+          "subject": "SM",
+          "room": "D-303",
+          "isLab": false
+        }
+      ],
+      "11-12": [],
+      "12-1": [],
+      "2-3": [],
+      "3-4": [
+        {
+          "teacher": "MRS",
+          "subject": "Artificial Intelligence Lab",
+          "room": "CS205",
+          "isLab": true,
+          "group": "B"
+        }
+      ],
+      "4-5": [
+        {
+          "teacher": "MRS",
+          "subject": "Artificial Intelligence Lab",
+          "room": "CS205",
+          "isLab": true,
+          "group": "B"
+        }
+      ]
+    }
+  ],
+  "Thursday": [
+    {
+      "section": "CSE-3-1",
+      "9-10": [],
+      "10-11": [
+        {
+          "teacher": "AVL",
+          "subject": "OOP",
+          "room": "B-209",
+          "isLab": false
+        }
+      ],
+      "11-12": [
+        {
+          "teacher": "SP",
+          "subject": "DBE",
+          "room": "B-209",
+          "isLab": false
+        }
+      ],
+      "12-1": [
+        {
+          "teacher": "SK",
+          "subject": "DS",
+          "room": "B-209",
+          "isLab": false
+        }
+      ],
+      "2-3": [],
+      "3-4": [
+        {
+          "teacher": "AM",
+          "subject": "DLD Lab",
+          "room": "CS220",
+          "isLab": true,
+          "group": "B"
+        }
+      ],
+      "4-5": [
+        {
+          "teacher": "AM",
+          "subject": "DLD Lab",
+          "room": "CS220",
+          "isLab": true,
+          "group": "B"
+        }
+      ]
+    },
+    {
+      "section": "CSE-3-2",
+      "9-10": [],
+      "10-11": [],
+      "11-12": [
+        {
+          "teacher": "KN",
+          "subject": "DBE Lab",
+          "room": "CS107",
+          "isLab": true,
+          "group": "A"
+        }
+      ],
+      "12-1": [
+        {
+          "teacher": "KN",
+          "subject": "DBE Lab",
+          "room": "CS107",
+          "isLab": true,
+          "group": "A"
+        }
+      ],
+      "2-3": [
+        {
+          "teacher": "GS",
+          "subject": "DS",
+          "room": "B-209",
+          "isLab": false
+        }
+      ],
+      "3-4": [
+        {
+          "teacher": "SS",
+          "subject": "OOP",
+          "room": "B-209",
+          "isLab": false
+        }
+      ],
+      "4-5": [
+        {
+          "teacher": "SWP",
+          "subject": "DLD",
+          "room": "B-209",
+          "isLab": false
+        }
+      ]
+    },
+    {
+      "section": "AIML-3",
+      "9-10": [],
+      "10-11": [
+        {
+          "teacher": "PKS",
+          "subject": "DLD",
+          "room": "A-32",
+          "isLab": false
+        }
+      ],
+      "11-12": [
+        {
+          "teacher": "SKB",
+          "subject": "OOP Lab",
+          "room": "CS115",
+          "isLab": true,
+          "group": "A"
+        }
+      ],
+      "12-1": [
+        {
+          "teacher": "SKB",
+          "subject": "OOP Lab",
+          "room": "CS115",
+          "isLab": true,
+          "group": "A"
+        }
+      ],
+      "2-3": [
+        {
+          "teacher": "GF4",
+          "subject": "DBE",
+          "room": "A-32",
+          "isLab": false
+        }
+      ],
+      "3-4": [
+        {
+          "teacher": "SKS",
+          "subject": "DS Lab",
+          "room": "CS105",
+          "isLab": true,
+          "group": "B"
+        }
+      ],
+      "4-5": [
+        {
+          "teacher": "SKS",
+          "subject": "DS Lab",
+          "room": "CS105",
+          "isLab": true,
+          "group": "B"
+        }
+      ]
+    },
+    {
+      "section": "CSE-5",
+      "9-10": [],
+      "10-11": [],
+      "11-12": [
+        {
+          "teacher": "HSB",
+          "subject": "OS Lab",
+          "room": "CS105",
+          "isLab": true,
+          "group": "A"
+        }
+      ],
+      "12-1": [
+        {
+          "teacher": "HSB",
+          "subject": "OS Lab",
+          "room": "CS105",
+          "isLab": true,
+          "group": "A"
+        }
+      ],
+      "2-3": [
+        {
+          "teacher": "GF2",
+          "subject": "TOC",
+          "room": "B-205",
+          "isLab": false
+        }
+      ],
+      "3-4": [
+        {
+          "teacher": "PKD",
+          "subject": "AI/ML Lab",
+          "room": "CS204",
+          "isLab": true,
+          "group": "B"
+        }
+      ],
+      "4-5": [
+        {
+          "teacher": "PKD",
+          "subject": "AI/ML Lab",
+          "room": "CS204",
+          "isLab": true,
+          "group": "B"
+        }
+      ]
+    },
+    {
+      "section": "IT-5",
+      "9-10": [],
+      "10-11": [
+        {
+          "teacher": "SBD",
+          "subject": "OS",
+          "room": "B-205",
+          "isLab": false
+        }
+      ],
+      "11-12": [
+        {
+          "teacher": "GF3",
+          "subject": "AI/ML Lab",
+          "room": "CS204",
+          "isLab": true,
+          "group": "B"
+        }
+      ],
+      "12-1": [
+        {
+          "teacher": "GF3",
+          "subject": "AI/ML Lab",
+          "room": "CS204",
+          "isLab": true,
+          "group": "B"
+        }
+      ],
+      "2-3": [],
+      "3-4": [],
+      "4-5": [
+        {
+          "teacher": "KKS",
+          "subject": "TOC",
+          "room": "B-205",
+          "isLab": false
+        }
+      ]
+    },
+    {
+      "section": "CSE-7",
+      "9-10": [
+        {
+          "teacher": "GF6",
+          "subject": "Web Programming Lab",
+          "room": "CS204",
+          "isLab": true,
+          "group": "A"
+        }
+      ],
+      "10-11": [
+        {
+          "teacher": "GF6",
+          "subject": "Web Programming Lab",
+          "room": "CS204",
+          "isLab": true,
+          "group": "A"
+        }
+      ],
+      "11-12": [],
+      "12-1": [],
+      "2-3": [
+        {
+          "teacher": "SPS",
+          "subject": "SM",
+          "room": "D-303",
+          "isLab": false
+        }
+      ],
+      "3-4": [
+        {
+          "teacher": "KN",
+          "subject": "IP",
+          "room": "D-303",
+          "isLab": false
+        }
+      ],
+      "4-5": [
+        {
+          "teacher": "GF5",
+          "subject": "AI",
+          "room": "D-303",
+          "isLab": false
+        }
+      ]
+    },
+    {
+      "section": "IT-7",
+      "9-10": [
+        {
+          "teacher": "SKN",
+          "subject": "Seminar Lab",
+          "room": "CS208",
+          "isLab": true,
+          "group": "B"
+        }
+      ],
+      "10-11": [
+        {
+          "teacher": "SKN",
+          "subject": "Seminar Lab",
+          "room": "CS208",
+          "isLab": true,
+          "group": "B"
+        }
+      ],
+      "11-12": [],
+      "12-1": [
+        {
+          "teacher": "AD",
+          "subject": "CS",
+          "room": "D-303",
+          "isLab": false
+        }
+      ],
+      "2-3": [],
+      "3-4": [
+        {
+          "teacher": "MRS",
+          "subject": "Artificial Intelligence Lab",
+          "room": "CS205",
+          "isLab": true,
+          "group": "A"
+        }
+      ],
+      "4-5": [
+        {
+          "teacher": "MRS",
+          "subject": "Artificial Intelligence Lab",
+          "room": "CS205",
+          "isLab": true,
+          "group": "A"
+        }
+      ]
+    }
+  ],
+  "Friday": [
+    {
+      "section": "CSE-3-1",
+      "9-10": [
+        {
+          "teacher": "AVL",
+          "subject": "OOP Lab",
+          "room": "CS115",
+          "isLab": true,
+          "group": "B"
+        }
+      ],
+      "10-11": [
+        {
+          "teacher": "AVL",
+          "subject": "OOP Lab",
+          "room": "CS115",
+          "isLab": true,
+          "group": "B"
+        }
+      ],
+      "11-12": [
+        {
+          "teacher": "SP",
+          "subject": "DBE Lab",
+          "room": "CS107",
+          "isLab": true,
+          "group": "A"
+        }
+      ],
+      "12-1": [
+        {
+          "teacher": "SP",
+          "subject": "DBE Lab",
+          "room": "CS107",
+          "isLab": true,
+          "group": "A"
+        }
+      ],
+      "2-3": [
+        {
+          "teacher": "SK",
+          "subject": "DS",
+          "room": "B-209",
+          "isLab": false
+        }
+      ],
+      "3-4": [],
+      "4-5": [
+        {
+          "teacher": "AM",
+          "subject": "DLD",
+          "room": "B-209",
+          "isLab": false
+        }
+      ]
+    },
+    {
+      "section": "CSE-3-2",
+      "9-10": [
+        {
+          "teacher": "KN",
+          "subject": "DBE",
+          "room": "B-209",
+          "isLab": false
+        }
+      ],
+      "10-11": [
+        {
+          "teacher": "SWP",
+          "subject": "DLD",
+          "room": "B-209",
+          "isLab": false
+        }
+      ],
+      "11-12": [
+        {
+          "teacher": "GS",
+          "subject": "DS Lab",
+          "room": "CS105",
+          "isLab": true,
+          "group": "A"
+        }
+      ],
+      "12-1": [
+        {
+          "teacher": "GS",
+          "subject": "DS Lab",
+          "room": "CS105",
+          "isLab": true,
+          "group": "A"
+        }
+      ],
+      "2-3": [],
+      "3-4": [
+        {
+          "teacher": "SS",
+          "subject": "OOP Lab",
+          "room": "CS115",
+          "isLab": true,
+          "group": "B"
+        }
+      ],
+      "4-5": [
+        {
+          "teacher": "SS",
+          "subject": "OOP Lab",
+          "room": "CS115",
+          "isLab": true,
+          "group": "B"
+        }
+      ]
+    },
+    {
+      "section": "AIML-3",
+      "9-10": [],
+      "10-11": [],
+      "11-12": [
+        {
+          "teacher": "PKS",
+          "subject": "DLD Lab",
+          "room": "CS220",
+          "isLab": true,
+          "group": "A"
+        }
+      ],
+      "12-1": [
+        {
+          "teacher": "PKS",
+          "subject": "DLD Lab",
+          "room": "CS220",
+          "isLab": true,
+          "group": "A"
+        }
+      ],
+      "2-3": [
+        {
+          "teacher": "SKB",
+          "subject": "OOP",
+          "room": "A-32",
+          "isLab": false
+        }
+      ],
+      "3-4": [
+        {
+          "teacher": "SKS",
+          "subject": "DS",
+          "room": "A-32",
+          "isLab": false
+        }
+      ],
+      "4-5": [
+        {
+          "teacher": "GF4",
+          "subject": "DBE",
+          "room": "A-32",
+          "isLab": false
+        }
+      ]
+    },
+    {
+      "section": "CSE-5",
+      "9-10": [],
+      "10-11": [],
+      "11-12": [
+        {
+          "teacher": "GF2",
+          "subject": "TOC Lab",
+          "room": "CS205",
+          "isLab": true,
+          "group": "A"
+        }
+      ],
+      "12-1": [
+        {
+          "teacher": "GF2",
+          "subject": "TOC Lab",
+          "room": "CS205",
+          "isLab": true,
+          "group": "A"
+        }
+      ],
+      "2-3": [
+        {
+          "teacher": "SPanda",
+          "subject": "CNS",
+          "room": "B-205",
+          "isLab": false
+        }
+      ],
+      "3-4": [
+        {
+          "teacher": "PKD",
+          "subject": "AI/ML",
+          "room": "B-205",
+          "isLab": false
+        }
+      ],
+      "4-5": [
+        {
+          "teacher": "HSB",
+          "subject": "OS",
+          "room": "B-205",
+          "isLab": false
+        }
+      ]
+    },
+    {
+      "section": "IT-5",
+      "9-10": [],
+      "10-11": [
+        {
+          "teacher": "BN",
+          "subject": "DMDW",
+          "room": "B-205",
+          "isLab": false
+        }
+      ],
+      "11-12": [
+        {
+          "teacher": "KKS",
+          "subject": "TOC",
+          "room": "B-205",
+          "isLab": false
+        }
+      ],
+      "12-1": [
+        {
+          "teacher": "GF3",
+          "subject": "AI/ML",
+          "room": "B-205",
+          "isLab": false
+        }
+      ],
+      "2-3": [],
+      "3-4": [
+        {
+          "teacher": "SBD",
+          "subject": "OS Lab",
+          "room": "CS105",
+          "isLab": true,
+          "group": "B"
+        }
+      ],
+      "4-5": [
+        {
+          "teacher": "SBD",
+          "subject": "OS Lab",
+          "room": "CS105",
+          "isLab": true,
+          "group": "B"
+        }
+      ]
+    },
+    {
+      "section": "CSE-7",
+      "9-10": [],
+      "10-11": [],
+      "11-12": [],
+      "12-1": [],
+      "2-3": [
+        {
+          "teacher": "GF5",
+          "subject": "AI",
+          "room": "D-303",
+          "isLab": false
+        }
+      ],
+      "3-4": [
+        {
+          "teacher": "SPS",
+          "subject": "SM",
+          "room": "D-303",
+          "isLab": false
+        }
+      ],
+      "4-5": [
+        {
+          "teacher": "GF6",
+          "subject": "IWP",
+          "room": "D-303",
+          "isLab": false
+        }
+      ]
+    },
+    {
+      "section": "IT-7",
+      "9-10": [],
+      "10-11": [
+        {
+          "teacher": "SKN",
+          "subject": "SM",
+          "room": "D-303",
+          "isLab": false
+        }
+      ],
+      "11-12": [
+        {
+          "teacher": "AD",
+          "subject": "CS",
+          "room": "D-303",
+          "isLab": false
+        }
+      ],
+      "12-1": [
+        {
+          "teacher": "MRS",
+          "subject": "AI",
+          "room": "D-303",
+          "isLab": false
+        }
+      ],
+      "2-3": [],
+      "3-4": [],
+      "4-5": []
+    }
+  ]
+}
